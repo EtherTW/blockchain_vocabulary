@@ -36,7 +36,7 @@ checksum,,無特定領域,檢查和,,,https://www.bitcoinbook.info/translations-
 child key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 child key derivation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 clearinghouse,,傳統金融,結算所,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
-client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+client,,無特定領域,客户端,,讓終端使用者接觸區塊鏈的使用者界面,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 coinbase output,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 coinbase transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 cold wallet,,無特定領域,冷錢包,,,
@@ -59,11 +59,11 @@ de-centralized trust,,無特定領域,,,,https://www.bitcoinbook.info/translatio
 decentralized,,無特定領域,去中心化,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 Decentralized Autonomous Organization,DAO,Ethereum,去中心化自主組織,,,
 decentralized emergent consensus,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
-decentralized network,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+decentralized network,,無特定領域,去中心化網路,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 denial-of-service attack,,無特定領域,阻斷服務攻擊,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 deterministic,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 deterministic key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
-difficulty,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+difficulty,,無特定領域,挖礦難度,難度,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 difficulty retargeting,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 difficulty target,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 digital currency,,無特定領域,數位貨幣,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
@@ -72,8 +72,7 @@ digital money,,無特定領域,數位貨幣,,,https://www.bitcoinbook.info/trans
 digital signature,,無特定領域,數位簽章,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 double spend,,無特定領域,雙重支付,,若一個惡意的用戶嘗試同時把自己的比特幣付給兩個不同的收款人，這就是雙重支付。Bitcoin 挖礦 和區塊鏈 會在網路里產生一個共識來決定哪一個交易會被確認和被接受。,https://bitcoin.org/zh_TW/vocabulary
 double-hashed address,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
-double-SHA256,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
-double-spend,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+double-SHA256,,無特定領域,雙 SHA256,,使用 SHA256 雜湊函數套用兩次,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 dump,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 Elliptic Curve Cryptography,,無特定領域,橢圓曲線密碼學,,數位簽章的底層數學技術,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
 elliptic curve multiplication,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
