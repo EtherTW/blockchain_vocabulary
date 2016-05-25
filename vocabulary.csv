@@ -1,0 +1,313 @@
+英文,縮寫,領域,完整繁中名稱,簡稱,補充說明,引用來源
+Account,,無特定領域,帳戶,,,
+Address,,無特定領域,地址,,Bitcoin 的地址就像真實地址或 Email，這是您收款時唯一需要提供的資訊。然而，一個重要的差別是，一個地址只能用於一筆交易。,https://bitcoin.org/zh_TW/vocabulary
+Altcoin,,無特定領域,替代幣,,替代幣? 山寨幣好像給人一種除了比特幣之外都是山寨的一樣,
+Anti Money Laundry,AML,無特定領域,反洗錢,,Anti Money Laundry (反洗錢？) /是,
+Application-Specific Integrated Circuits,ASIC,無特定領域,特殊應用積體電路,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+authentication path,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+authoritative,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+authoritative record,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Balance,,無特定領域,餘額,,,
+balanced tree,,演算法,平衡樹,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Bit,,比特幣,Bit,,"Bit 是標明一個比特幣的次級單位的常用單位 -1,000,000 bits 等於1 比特幣 (BTC or B⃦).，通常這個單位對於標示小費、商品和服務價格更方便。",https://bitcoin.org/zh_TW/vocabulary
+Bitcoin,,比特幣,比特幣,,Bitcoin - 以大寫字母開頭，用於描述 Bitcoin 的概念或整個網路。譬如：“我今天瞭解了有關 Bitcoin 協議的內容。”bitcoin - 以小寫字母開頭，用於描述作為一個計量單位來使用的比特幣，例如：“我今天轉出了 10 個比特幣。”它也常常縮寫為 BTC 或 XBT。,https://bitcoin.org/zh_TW/vocabulary
+Bitcoin Improve Proposal,BIP,比特幣,比特幣改進方案,,Bitcoin Improve Proposal,
+Block,,無特定領域,區塊,,區塊是區塊鏈中的一筆紀錄，其包含與確認了等待中的交易。平均大約每十分鐘就會有一個新的區塊經由挖礦被加到區塊鏈中。,https://bitcoin.org/zh_TW/vocabulary
+block hash,,無特定領域,區塊雜湊值,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+block header,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+block height,,無特定領域,區塊高度,,區塊鏈的長度,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+block index,,無特定領域,區塊索引,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+block number,,無特定領域,區塊編號,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Blockchain,,無特定領域,區塊鏈,,區塊鏈是一個按照時間排序的公開的 Bitcoin 交易紀錄。所有的 Bitcoin 用戶分享區塊鏈，它可用於驗證 Bitcoin 交易的持久性并避免雙重支付的情況。,https://bitcoin.org/zh_TW/vocabulary
+blockchain explorer,,無特定領域,區塊鏈瀏覽器,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Bloom filter,,演算法,布隆過濾器,,檢索元素是否在集合中的演算法。特色是犧牲識別率換取高時間、空間效率。,https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8
+bootstrap,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+branch,,無特定領域,分支,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+broadcast,,無特定領域,廣播,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+brain wallet,,無特定領域,,,,
+brute-force,,無特定領域,暴力,暴搜,一般搭配暴力搜索使用,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+BTC,,比特幣,BTC,,BTC 是用於標明一個比特幣的常用單位,https://bitcoin.org/zh_TW/vocabulary
+build prerequisites,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Byzantine Generals Problem,,分散式系統,拜占庭將軍問題,,p2p 系統達成共識的基本問題,https://zh.wikipedia.org/wiki/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98
+candidate block,,無特定領域,候選區塊,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+cascade,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+centralized,,無特定領域,集中式的,,有個中央權威或控制點的系統,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+checksum,,無特定領域,檢查和,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+child key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+child key derivation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+clearinghouse,,傳統金融,結算所,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+coinbase output,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+coinbase transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+cold wallet,,無特定領域,冷錢包,,,
+cold-storage,,無特定領域,冷儲存,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Colored coin,,無特定領域,彩色幣,彩幣,,
+compile,,無特定領域,編譯,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+compressed private key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+compressed public key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+compromised,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+confirmation,,無特定領域,確認,,“確認”意味著一筆交易已經由網路所驗證，並且極不可能取消。交易在被包含在一個區塊 后就會接收到一個確認并不斷收到之後的區塊的確認。對於小額交易，單單一個確認就已經很安全，然而當轉移大量金錢如 1000 美元時，等待超過6個確認是有意義的。每個新的確認都使得風險以指數程度下降。,https://bitcoin.org/zh_TW/vocabulary
+consensus,,無特定領域,共識,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+contract services,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+core,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+core client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Counterparty,XCP,Counterparty,Counterparty,,基於比特幣區塊鏈的開源應用平台，也同時指這個平台發行的貨幣 XCP,https://en.wikipedia.org/wiki/Counterparty_(technology)
+counterparty risk,,無特定領域,交易對手風險,,合約對方不履行合約責任的風險,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Cryptocurrency,,無特定領域,密碼學貨幣,碼幣,,
+Cryptography,,無特定領域,密碼學,,密碼學是數學的一個分支，能提供數學證明以確保高層次安全性。線上貿易和銀行早已使用密碼學。在 Bitcoin 方面，密碼學用於避免有人使用其他人的錢包，或是破壞區塊鏈。密碼學也可以用來加密錢包，讓持有密碼的人才能使用此錢包。,https://bitcoin.org/zh_TW/vocabulary
+de-centralized trust,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+decentralized,,無特定領域,去中心化,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Decentralized Autonomous Organization,DAO,Ethereum,去中心化自主組織,,,
+decentralized emergent consensus,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+decentralized network,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+denial-of-service attack,,無特定領域,阻斷服務攻擊,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+deterministic,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+deterministic key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+difficulty,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+difficulty retargeting,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+difficulty target,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+digital currency,,無特定領域,數位貨幣,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+digital keys,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+digital money,,無特定領域,數位貨幣,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+digital signature,,無特定領域,數位簽章,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+double spend,,無特定領域,雙重支付,,若一個惡意的用戶嘗試同時把自己的比特幣付給兩個不同的收款人，這就是雙重支付。Bitcoin 挖礦 和區塊鏈 會在網路里產生一個共識來決定哪一個交易會被確認和被接受。,https://bitcoin.org/zh_TW/vocabulary
+double-hashed address,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+double-SHA256,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+double-spend,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+dump,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Elliptic Curve Cryptography,,無特定領域,橢圓曲線密碼學,,數位簽章的底層數學技術,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+elliptic curve multiplication,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+emergent consensus,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+emergent property,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+encrypted private keys,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+encryption scheme,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+encumber,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+encumbrance,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+enterprise-class,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+entropy,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Ethereum,,Ethereum,Ethereum,,Ethereum 區塊鏈，對岸翻作乙太坊，繁體中文是否翻譯？,
+Eugenia,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Exchange,,無特定領域,交易所,,交易所撮合想交易的人。可讓碼幣換成法幣，或法幣換成碼幣,
+exchange rate,,傳統金融,匯率,,市場所決定兩種貨幣之間以多少單位互相交換的關係。可以是法幣與法幣、法幣與碼幣、碼幣與碼幣,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+extended keys,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+fees,,無特定領域,手續費,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+fiat currency,,傳統金融,法定貨幣,法幣,代表目前由政府所發放的貨幣,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+filteradd message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+filterclear message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+filterload message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+fingerprint,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+finite field,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+flat topology,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+flooding,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+foreign currencies,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+fork,,無特定領域,分叉,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+full blockchain nodes,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+full client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+full node,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+full-index,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+funds,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+gateway,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+generation transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+generator point,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+genesis block,,無特定領域,創始區塊,,區塊鏈上最早的第一個區塊,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+getdata message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Gopesh,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+grandchildren key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+greedy algorithm,,無特定領域,貪婪演算法,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hard fork,,無特定領域,硬分叉,,,
+Hardened child key derivation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hardened derivation function,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hardware,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hash,,無特定領域,雜湊值,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hash rate,,無特定領域,雜湊率,,雜湊速率是用來測量 Bitcoin 網路計算能力的單位。Bitcoin 網路必須進行大量密集的數學運算以維持安全。當網路的雜湊速率達到10 TH/s 時，這表示網路每秒可以進行10 兆個計算。,https://bitcoin.org/zh_TW/vocabulary
+hashing power,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hash puzzle,,無特定領域,,,,
+hierarchical deterministic wallet,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+high-value retail,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hoarding,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+honest,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+hot wallet,,無特定領域,熱錢包,,,
+implementation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+import,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+incoming transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+input,,無特定領域,輸入,,一筆交易的輸入是上一個交易輸出的參照,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+install,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+interface,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+international wire transfer,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+inventory,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+issuance rate,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+issue coins,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+key pair,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+know your customer,KYC,無特定領域,認識您的客戶,,know your customer,
+ledger,,無特定領域,總帳,,翻帳簿好像也不太對，求更好翻譯,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+library,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+lightweight client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+locktime,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+low-value retail,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+mailing list,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+main chain,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+mainnet,,無特定領域,主網路,,相較於測試網路，主網路是正式運作的環境,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+malleability,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+market rate,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+master chain code,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+master key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+master private key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+master public key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+memory pool,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+merkle path,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+merkle root,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+merkle tree,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+merkleblock message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+mesh network,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+meta chain,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+meta coins,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+millibits,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+miner,,無特定領域,礦工,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Mining,,無特定領域,挖礦,,Bitcoin 挖礦是一種令電腦硬體進行數學運算的程序，用於確認交易和增加網路的安全。Bitcoin 挖礦者可以獲得交易手續費和新產生的比特幣作為回報。挖礦的回報是依據計算量的多寡來分配的，這使得挖礦成為一個專業且競爭的市場。因為挖礦並非容易賺錢的方法，所以不是所有的 Bitcoin 使用者都在挖礦。,https://bitcoin.org/zh_TW/vocabulary
+Mining pool,,無特定領域,挖礦池,礦池,,
+mining rigs,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Mixing,,無特定領域,混幣,,,
+mnemonic code words,,無特定領域,記憶碼,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+mnemonic key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+mobile client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+monetary,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+multi-signature,Multisig,無特定領域,多重簽章,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+multiaccount,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+multisignature addresses,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+neighbors,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+network,,無特定領域,網路,,一般指區塊鏈的 p2p 網路,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+network edge router,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+network partition,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Node,,無特定領域,節點,,,
+node introduction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Nonce,,無特定領域,Nonce,,只用一次隨機數。目前沒有看到中文翻譯，是否有資安領域專家幫忙？,
+nondeterministic,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+nonstandard transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+one-way cryptographic function,,密碼學,單向函數,,或作「密碼學用單向函數」,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+open ledger,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+operator,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+order of elliptic curve,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+origination,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Orphan Block,,無特定領域,無主區塊,, ,
+orphan transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+orphan transaction pool,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+output,,無特定領域,輸出,,一筆交易的輸出代表輸送錢幣的指示,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+ownership,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+paper check,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+paper wallet,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+parent key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+passphrase,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+pattern,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+pay-to-public-key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+payload,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+payment to a public key hash,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Peer,,p2p 網路,節點,,,
+peer-to-peer,,無特定領域,點對點,,點對點是指系統以有組織的方式運作，其中每個參與者都能夠和其他人互動。Bitcoin 的網路設計讓每個使用者都會將交易廣播給其他使用者。最重要的是，此種運作方式不需要銀行作為交易的第三方。,https://bitcoin.org/zh_TW/vocabulary
+persistence storage,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+plain text,,密碼學,明文,,未加密的文字,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+point at infinity,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+pool operator,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+prefix,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+prerequistes,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+prime number exponentiation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Private Key,,無特定領域,私密金鑰,私鑰,私密金鑰是一串證明你有從一個特定的錢包使用比特幣的權力的秘密數據，私密金鑰讓您可以通過加密的簽章來使用比特幣。如果您使用軟體錢包，您的私密金鑰(s)存儲在您的電腦中。千萬不要公開您的私密金鑰，因為通過金鑰可以使用相對應的 Bitcoin 錢包中的比特幣。,https://bitcoin.org/zh_TW/vocabulary
+private key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+process of payments,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+production systems,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+prompt,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Proof of burn,,無特定領域,,,,
+Proof of Stake,,無特定領域,權益證明,,,
+Proof of Work,,無特定領域,工作量證明,,,
+propagate,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+protocol,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+pseudo-random number,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+pull operation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+push operation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+query,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+quotes,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+raw,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+recipient,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+reconvergence,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+redeem,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+redeem script,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+reference client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+reference implementation,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+release,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+release candidates,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+release tag,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+represent,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+resilience,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+restore,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+retail,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+retail consumer,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+retailer,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+reward,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+ring signatures,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+root seed,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Satoshi Nakamoto,,比特幣,中本聰,,比特幣實作論文發表者,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+satoshis,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+script,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+script language,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+secondary chain,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+secret key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+seed,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+seed node,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+send bitcoins,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+sequence number,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+server,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+share chain,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+sibling chain,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+signature,,無特定領域,簽章,,"加密的 簽章是一種給某人證明所有權的數學機制。對於 Bitcoin, 一個Bitcoin 錢包 和它的私密金鑰(s) 由某種數學魔法連結在一起。當您的 Bitcoin 軟體用正確的私密金鑰簽署交易時，整個網路都可以看到這個簽章與被花費的比特幣是相匹配的。然而，其他人根本沒有辦法破解您的私密金鑰來偷走你辛苦賺來的比特幣。",https://bitcoin.org/zh_TW/vocabulary
+simplified payment verification,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Smart contract,,無特定領域,智能契約,,,
+soft fork,,無特定領域,軟分叉,,,
+solo miner,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+specialized mining pool protocol,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+SPV node,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+stack,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+standard transaction,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+status,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+stealth,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+subkeys,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+suffix,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+summarize,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+tag,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+testnet,,無特定領域,測試網路,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+third-party,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+timestamp,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+token,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+toolkit,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+transaction,tx,無特定領域,交易,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Transaction Age,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+transaction fee,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+transaction hash,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+transaction pool,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Transaction Priority,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+transaction script,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+tx message,,無特定領域,交易訊息,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+UAE (United Arab Emirates),,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Uncle,,Ethereum,叔區塊,,,
+uncompressed,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+uncompressed private key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+uncompressed public key,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+unforgeable digital signature,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+Uniform Resource Identifier,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+unlocking script,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+unspent transaction output,UTXO,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+UTXO pool,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+UTXO set,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+validation,,無特定領域,驗證,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+vanity address,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+vanity miner,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+vanity pattern,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+verack,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+verified,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+version byte,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+version message,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+version prefix,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+vout index,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+wallet,,無特定領域,錢包,,Bitcoin 錢包大致上可視為 Bitcoin 網路上的實體錢包。錢包實際上包含您的私密金鑰(keys) ，私密金鑰允許您花費在區塊鏈上的比特幣。每個 Bitcoin 錢包都可以告訴您它所掌控的比特幣的總餘額，而且您可支付具體的金額給指定的人，就像使用一個真正的錢包一樣。這不同於信用卡，信用卡由商家向您收款。,https://bitcoin.org/zh_TW/vocabulary
+Wallet Import Format,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+web client,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+white paper,,無特定領域,白皮書,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
+WIF-compressed,,無特定領域,,,,https://www.bitcoinbook.info/translations-of-mastering-bitcoin/
